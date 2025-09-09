@@ -1,2 +1,2 @@
 # Essentials
-A friendly console Windows setup helper for Competitive Players.
+A friendly console-based installer and setup assistant for Windows, designed to quickly equip your system with essential software, gaming tools, and productivity applications. Tailored presets for competitive gamers, multitasking users, or custom installations make it easy to get up and running in minutes, while interactive prompts guide you through optional installations and configuration choices.
