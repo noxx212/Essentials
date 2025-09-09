@@ -14,7 +14,7 @@ This project started because I kept reinstalling Windows to fix FPS drops, and I
 <p>Run this command in Console Prompt (CMD): </p>
 
 ```batch
-powershell Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; Invoke-WebRequest -Uri "https://github.com/noxx212/Essentials/releases/download/v1.0/essentials.bat" -OutFile "$env:TEMP\essentials.bat"; Start-Process -FilePath "$env:TEMP\essentials.bat"
+powershell Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; Invoke-WebRequest -Uri "https://github.com/noxx212/Essentials/releases/download/1.0/essentials.bat" -OutFile "$env:TEMP\essentials.bat"; Start-Process -FilePath "$env:TEMP\essentials.bat"
 ```
 
 ---
