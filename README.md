@@ -27,7 +27,11 @@ powershell Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.Service
   
 - Multitasking Preset (Installs all of them above and vlc and spicetify if you wish to. I will be adding more things in future.)
   
-- Custom Installation Mode (Lets you install all of them above and also, Free Download Maneger, Veracrypt, Keepass, VSCode)
+- Custom Installation Mode (Lets you install all of them above and also, Free Download Maneger, Veracrypt, Keepass, VSCode, etc..)
+
+<h4>OBS Installation and Configuration: </h4>
+
+- All credits for this go to <a href="https://github.com/Matishzz/OBS-Studio">Matishzz</a>
 
 <br>
 
