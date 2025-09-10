@@ -19,4 +19,18 @@ powershell Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.Service
 
 ---
 
+<h3>🪶 Features</h3>
+
+<h4>Presets: </h4>
+
+- Competitive Preset (Installs 7zip, Visual Redists, DirectX, Discord, Spotify and your Game Launchers)
+- Multitasking Preset (Installs all of them above and vlc and spicetify if you wish to. I will be adding more things in future.)
+- Custom Installation Mode (Lets you install all of them above and also, Free Download Maneger, Veracrypt, Keepass, VSCode)
+
+> [!TIP]
+> Using the custom installation mode is Highly Recommended to install only the software you need.
+
+
+---
+
 <p>Thank you for considering using my script. Follow me on <a href=https://x.com/noxxzeraa>X/Twitter</a></p>
